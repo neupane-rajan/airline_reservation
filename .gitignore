@@ -1,0 +1,16 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore environment variables
+.env
+
+# Ignore Python cache files
+__pycache__/
+*.py[cod]
+*.sqlite3
+
+# VS Code settings
+.vscode/
+
+# macOS files
+.DS_Store
